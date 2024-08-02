@@ -9,8 +9,13 @@ BitBurner StarterHilfe.js :-D
 <br>
 Hier sind ein paar einfach nützliche Skripte
 
-- 🔐  [EnablePrivacy](https://github.com/B4SH-M4ST3R/Ubuntu/blob/master/StarterScripts/enablePrivacy.sh): Enable Privacy in Ubuntu & replace snap with flatpak 
-- 🔎  [MostUsedSoftwareInstaller](https://github.com/B4SH-M4ST3R/Ubuntu/blob/master/StarterScripts/installSoftware.sh): Install the most used software packages (Flatpak & Snap required!)
+- 🔐  [Hauptskript: gimme-money.js](https://github.com/BufferTheHutt/BitBurner/blob/master/gimme-money.js): Dieses Skript ist Grundlage für den "rootAndMoney.js" und "selfAttack.js" Algorithmus
+
+- 🔎  [rootAndMoney](https://github.com/BufferTheHutt/BitBurner/blob/master/rootAndMoney.js): versucht Root Zugriff zu erlangen und dann das "gimme-money.js" zu initialisieren
+
+- 🔎  [selfAttack](https://github.com/BufferTheHutt/BitBurner/blob/master/selfAttack.js): versucht Root Zugriff zu erlangen und dann das "gimme-money.js" auf dem Ziel Server zu initialisieren. Es wird als nicht der RAM des "home" Servers beansprucht.
+
+- 🔎  [wseAutomatisierung](https://github.com/BufferTheHutt/BitBurner/blob/master/wseMoneyMaker.js): kauft Aktien sobald die Vorhersage positiv genug ist. Verkauft automatisch, wenn die Vorhersage schlecht wird.
 
 </details>
 
@@ -22,8 +27,8 @@ Hier sind ein paar einfach nützliche Skripte
 <br>
 Hier sind ein paar einfach nützliche Quellen
 
-- 🔐  [EnablePrivacy](https://bitburner.readthedocs.io/en/latest/netscript/netscriptfunctions.html): NetScript Funktionen (Bedeutung und Nutzung) 
-- 🔎  [MostUsedSoftwareInstaller](https://javascript.info/): JS Quellen
-- 🔎  [MostUsedSoftwareInstaller](https://www.w3schools.com/js/default.asp): JS Quellen
+- 🔐  [NetScript Basics](https://bitburner.readthedocs.io/en/latest/netscript/netscriptfunctions.html): NetScript Funktionen (Bedeutung und Nutzung) 
+- 🔎  [JavaScript Infos](https://javascript.info/): JS Quellen
+- 🔎  [W3Schools --> JavaScript](https://www.w3schools.com/js/default.asp): JS Quellen
 
 </details>
